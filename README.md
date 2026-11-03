@@ -1,4 +1,4 @@
-# 记账助手（expense-ball · MCP 版）
+# 记账助手（expense-ball）
 
 一个用 Go 写的小型 AI Agent 记账项目：在终端里用大白话记账，大模型自动理解收入/支出和分类，数据存在本地 JSON 文件里。
 界面使用 [Bubble Tea](https://github.com/charmbracelet/bubbletea) 终端 UI 框架，工具能力通过 **MCP（Model Context Protocol）** 接入。
